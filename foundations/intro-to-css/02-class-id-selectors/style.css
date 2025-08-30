@@ -1,0 +1,22 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdama, "DejaVu Sans", sans-serif
+}
+
+#second {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+    font-weight: 50px;
+}
+
+#fourth {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
+
